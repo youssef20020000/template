@@ -1,0 +1,88 @@
+body{background-image: url("http://choco-pixel.com/SeventyTwo-1.6/Slideshow/img/background/2.jpg")}
+.k{text-align: center;
+color: white;
+font-size: 60px}
+.r{text-align: center;
+color: white;
+font-size: 40px ;margin-top: 20px}
+.q{
+    text-align: center;
+    color:white;
+    font-size: 17px;margin-top: 15px
+}
+.logo{margin-left: 600px;
+    margin-top: 30px;
+}
+#qs{margin-top: 450px;
+margin-left: 400px;
+font-size: 40px}
+.tab{
+    color:white; text-align: center;
+   
+    font-size: 30px;
+}
+.www{
+height:30px;
+width: 200px;
+}
+
+.deev{
+    margin-top: 40px;
+    margin-left: 500px;
+}
+.qss{height:35px;
+width:100px;}
+
+.sec{background: ghostwhite}
+feature-box .icon {
+    width: 100px;
+    height: 55px;
+    color: #fff;
+    position: relative;
+    background: #bbbcbc;
+    margin: 35px auto 20px;}
+    .fa-heart:before {
+        content: "\f004";}
+        .team{
+            background:gray;
+            width: 220px;
+            height: 400px;
+            margin-left: 115px
+        }
+        .team1{ background:gray;
+            width: 220px;
+            height: 400px;
+            margin-left: 390px;
+        margin-top: -400px}
+        .team2{background:gray;
+            width: 220px;
+            height: 400px;
+            margin-left: 665px;
+        margin-top: -400px}
+        .team3{background:gray;
+            width: 220px;
+            height: 400px;
+            margin-left:940px;
+        margin-top: -400px}
+        .form-control {
+            height: 42px;
+            border-radius: 0;
+            border: 1px solid transparent;
+         
+        }#div3{
+            margin-top: 2%;
+            margin-right: 50%;
+            font-family: "Helvetica ";
+    
+        }#div4{
+            
+            padding: 3%;
+            margin-top:-15%;
+            margin-left: 60%;
+    
+        }
+        textarea{
+            width: 350px;
+            height: 600px;
+        }
+        .contact{text-align: center}
